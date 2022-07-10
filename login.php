@@ -285,7 +285,7 @@ div#login-right::before {
 	 height: auto;
 	 margin: auto auto;
 	 background: #fff;
-	 border-radius: 205px;
+	 border-radius: 25px;
 	 box-shadow: 0px 2px 6px -1px rgba(0, 0, 0, .12);
 }
  .left {
